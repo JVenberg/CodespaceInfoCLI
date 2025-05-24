@@ -1,4 +1,4 @@
-# Codespaces Expiration CLI
+# Codespaces Info CLI
 
 A command-line tool to list and monitor GitHub Codespaces expiration dates. Helps you keep track of which codespaces are about to expire so you can take action before losing your work.
 
